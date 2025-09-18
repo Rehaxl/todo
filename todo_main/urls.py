@@ -25,4 +25,5 @@ urlpatterns = [
 
     #Todo 
     path('todo/',include('todo.urls')),
+    
 ]
